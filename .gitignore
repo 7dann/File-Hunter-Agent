@@ -1,0 +1,14 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Conjunto de dados do professor: pesado (mais de 400 MB) e acima do limite
+# de 100 MB por arquivo do GitHub. Veja o README para extrair com o CLI.
+docencia/
+Fontes-*.zip
+*.zip
